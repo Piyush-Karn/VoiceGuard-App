@@ -1,0 +1,10 @@
+__pycache__
+incidents
+evidence
+.env
+.venv
+/chroma_db
+query_bot.py
+temp_uploads
+/venv
+transcripts
